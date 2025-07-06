@@ -1,6 +1,3 @@
-![DARK EAGLE 🦅 ](https://github.com/Vishal0Hacker/Dark-eagle/blob/main/asstes/Screenshot_20250706_185452.jpg)
-
-
 # DARK EAGLE 🦅 
 Hack any website Admin pannel
 
@@ -41,7 +38,7 @@ bash setup.sh
 bash eagle.sh
 ```
 
-Tutorial:-
+Screenshot:-
 
 
 ![DARK EAGLE 🦅 ](https://github.com/Vishal0Hacker/Dark-eagle/blob/main/asstes/Screenshot_20250706_185452.jpg)
