@@ -9,7 +9,7 @@ python2 banner.py
 echo ""
 echo -e "  \033[91m[ \033[95mDark Eagle (Web pentesting Framework) \033[91m]"
 sleep 0.1
-echo -e "          [\033[92mC0DER : \033[96mAnubhav Kashyap \033[92m]"
+echo -e "          [\033[92mC0DER : \033[96m𓆩𝗩𝗜𝗦𝗛𝗔𝗟 𝗛𝗮𝗰𝗸𝗲𝗿 𓆪 \033[92m]"
 }
 
 about(){
@@ -18,7 +18,7 @@ banner
 echo ""
 printf "   \e[0m\e[44mDark eagle is a Website Penetration testing framework\e[0m\n"
 echo ""
-printf "   \e[0m\e[41mDeveloped by Anubhav Kashyap !\e[0m\n"
+printf "   \e[0m\e[41mDeveloped by 𓆩𝗩𝗜𝗦𝗛𝗔𝗟 𝗛𝗮𝗰𝗸𝗲𝗿 𓆪 !\e[0m\n"
 echo ""
 printf "\e[0m\e[92m   Group \e[0m\e[91m         : \e[0m\e[96mDeepWeb Shadows\e[0m\n"
 echo ""
