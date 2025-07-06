@@ -1,46 +1,52 @@
-#  Dark Eagle !!
-<img src="logo.jpg"><br>
-* `A web penetration testing framework developed for Linux and Termux!`
+![DARK EAGLE 🦅 ](https://ibb.co/GvGJvQB3)
 
-## Features !
 
-01.  DNS Lookup</br>
-02.  Reverse DNS Lookup</br>
-03.  IP Locator</br>
-04.  Subnet Lookup</br>
-05.  Whois Lookup</br>
-06.  Host Provider Lookup</br>
-07.  Port Scanner</br>
-08.  Page Link Finder</br>
-09.  Traceroute</br>
-10.  HTTP Header</br>
-11.  SQLI Scanner</br>
-12.  DDOS Attack</br>
-13.  Subdomain Finder</br>
-14.  Slowloris Attack</br>
-15.  Admin Page Finder</br>
-16.  Robots Finder</br>
+# DARK EAGLE 🦅 
+Hack any website Admin pannel
 
-## Disclaimer
-*This tool is for educational purposes only !*
+###### Easily dodos any website.
+***
+### <p align="center">Commands to run tool in ur terminal
+***
 
-*I will not be responsible for any misuse*
-
-## Usage
-Clone it by
 ```bash
-git clone https://github.com/anubhavanonymous/Dark_Eagle
+Note : Tool is Made of Educational Purposes only.
+       Please try not to harm anyone device 
+       it's For Fun Purpose Not For Revenge
+       (Join Us All http://vishal-hacker0.netlify.app)
+   
 ```
-Go to the Dark Eagle Directory
+
+
+
+```bash
+apt update && apt upgrade -y
+```
+```bash
+pkg install python git -y
+```
+```bash
+pip install colorama
+```
+```bash
+git clone https://github.com/Vishal0Hacker/Dark-eagle
+```
 ```bash
 cd Dark_Eagle
 ```
-Install requirements 
 ```bash
 bash setup.sh
 ```
-Run Dark Eagle 
 ```bash
 bash eagle.sh
 ```
-* `More features to be added soon !`
+
+Tutorial:-
+
+
+https://github.com/hackerxphantom/WA_CRASHER/assets/70594016/1402b1d4-c8ad-44c8-b9c4-eb72978585fd
+
+
+
+
+##### <p align="center">```And Thanks for choosing this tool Support Us !```
